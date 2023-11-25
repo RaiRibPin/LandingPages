@@ -4,6 +4,9 @@ body {
     font-family: 'Bebas Neue', sans-serif;
 }
 @media screen and (max-width: 768px) {
+    .conteudo-social {
+        padding-top: 4px !important;
+    }
     .menu-header {
         display: none;
         flex-direction: column;
